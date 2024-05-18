@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EvaluacionFinal</string>
+    <string name="button_save">Guardar</string>
+    <string name="label_type">Tipo</string>
+    <string name="error_invalid_value">Valores inválidos</string>
+    <string name="error_empty_fields">Existen campos vacíos</string>
+    <string name="title_register_measurement">Record Measurement</string>
+    <string name="label_value_CLP">Costo de la medición</string>
+    <string name="label_date">Fecha actual</string>
+</resources>

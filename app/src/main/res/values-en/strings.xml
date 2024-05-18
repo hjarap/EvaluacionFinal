@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalEvaluation</string>
+    <string name="button_save">Save</string>
+    <string name="label_type">Type</string>
+    <string name="error_invalid_value">Invalid values</string>
+    <string name="error_empty_fields">There are empty fields</string>
+    <string name="title_register_measurement">Record Measurement</string>
+    <string name="label_value_CLP">Measurement cost</string>
+    <string name="label_date">current date</string>
+</resources>
